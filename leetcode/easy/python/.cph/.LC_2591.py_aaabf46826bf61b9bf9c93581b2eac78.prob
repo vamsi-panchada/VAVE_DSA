@@ -1,0 +1,1 @@
+{"name":"Local: LC_2591","url":"/Users/vamsi/DSA/leetcode/easy/python/LC_2591.py","tests":[{"id":1746887667077,"input":"20\n3","output":"1"},{"id":1746887687669,"input":"16\n2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/vamsi/DSA/leetcode/easy/python/LC_2591.py","group":"local","local":true}

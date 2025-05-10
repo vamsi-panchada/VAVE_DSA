@@ -1,0 +1,1 @@
+{"name":"Local: LC_2423","url":"/Users/vamsi/DSA/leetcode/easy/cpp/LC_2423.cpp","tests":[{"id":1746886775793,"input":"abcc","output":"true"},{"id":1746886794195,"input":"aazz","output":"false"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/vamsi/DSA/leetcode/easy/cpp/LC_2423.cpp","group":"local","local":true}
