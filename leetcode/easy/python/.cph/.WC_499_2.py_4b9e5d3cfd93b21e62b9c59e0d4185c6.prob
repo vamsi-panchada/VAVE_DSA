@@ -1,0 +1,1 @@
+{"name":"Local: WC_499_2","url":"/Users/vamsi/DSA/leetcode/easy/python/WC_499_2.py","tests":[{"id":1746932381168,"input":"[[1,4],[2,3]]","output":"true"},{"id":1746932397770,"input":"[[1,3],[2,4]]","output":"false"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/vamsi/DSA/leetcode/easy/python/WC_499_2.py","group":"local","local":true}

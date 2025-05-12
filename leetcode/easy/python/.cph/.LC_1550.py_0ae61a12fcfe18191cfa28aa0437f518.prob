@@ -1,0 +1,1 @@
+{"name":"Local: LC_1550","url":"/Users/vamsi/DSA/leetcode/easy/python/LC_1550.py","tests":[{"id":1746966691699,"input":"[2,6,4,1]","output":"false"},{"id":1746966696643,"input":"[1,2,34,3,4,5,7,23,12]","output":"true"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/vamsi/DSA/leetcode/easy/python/LC_1550.py","group":"local","local":true}
